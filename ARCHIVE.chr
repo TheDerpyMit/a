@@ -1,0 +1,69 @@
+# ARCHIVE.chr (Character Squence Log's)
+# Sunday, 2nd February.
+
+[00:00:00] Virtual Machine Boot Sequence Initiated.
+[00:00:01] Character Definitions Loaded:
+    - narrator (???) - #535353
+    - yuki (Yuki Asano) - #ff6426
+    - renji (Renji Otomaji) - #4e3bf7
+    - ariya (Ariya) - #b462f7
+    - professor (Mr Afton) - #f85268
+    - dick (Petelgeuse Romanee-Conti) - #580505
+    - whitebeard (Guardian Whitebeard) - #5a550c
+    - mango (The Forbidden Mango) - #f84812
+[00:00:02] Image Definitions Loaded:
+    - splash: "images/splash1.png"
+    - warning: "images/warning.png"
+[00:00:05] Label splashscreen: Executing.
+... (Splash screen and warning display as before) ...
+[00:00:28] Label start: Executing.
+... (Initial setup and college scene as before) ...
+[00:01:53] renji: "Oh you bet I'm in!"
+[00:01:54] Music: "audio/Light to a new beginning.mp3" fadeout 3.0.
+[00:01:57] Scene: void.
+[00:01:57] narrator: "It is the next day."
+... (Yuki and Renji's forest arrival as before) ...
+[00:02:40] yuki: "Here we are!"
+[00:02:41] renji: "Finally.."
+... (Forest scene and bush sound as before) ...
+[00:02:48] Scene: witchforest with dissolve.
+[00:02:49] Music: "audio/boss.mp3" fadein 2.0 volume 0.3.
+[00:02:49] yuki: "Renji.."
+... (Betelgeuse encounter as before) ...
+[00:03:10] whitebeard: "Step back you both!"
+... (Whitebeard's intervention and Yuki's capture as before) ...
+[00:03:30] narrator: "Renji goes around the forest to follow Betelgeuse."
+[00:03:34] Pause for 4 seconds.
+[00:03:38] Scene: yukistuck.
+[00:03:38] yuki: "(groans)"
+... (Yuki's captivity as before) ...
+[00:03:50] Scene: finalforest.
+[00:03:50] renji: "It's very abnormal for a random tunnel to be there."
+... (Yuki and Renji's reunion as before) ...
+[00:04:15] dick: "You are truly slothful."
+... (Renji's fight with Betelgeuse as before) ...
+[00:04:40] Scene: void.
+[00:04:40] Sound: "fx/final_punch.mp3"
+[00:04:41] yuki: "RENJI NO WAIT!"
+[00:04:41] Sound: "fx/body fall.mp3"
+[00:04:42] Music: "audio/tears.mp3" fadein 1.0 volume 0.3.
+[00:04:42] Scene: yuki_dead.
+[00:04:42] yuki: "I-I can't breathe.."
+... (Yuki's death as before) ...
+[00:04:50] renji: "Y-You bastard."
+... (Renji's rage and attack on Betelgeuse as before) ...
+[00:05:00] Scene: finalforest.
+[00:05:00] renji: "(Picks up Yuki)"
+... (Renji's grief and carrying Yuki as before) ...
+[00:05:10] Scene: void.
+... (Snowstorm scene as before) ...
+[00:05:25] Scene: blood.
+... (Bloodbath scene as before) ...
+[00:05:40] Scene: void.
+... (Mango's appearance and attack as before) ...
+[00:05:50] narrator: "Hold on."
+... (Narrator's interruption and music stop as before) ...
+
+[00:06:00] ???: "I couldn't protect them, i'm fucking useless."  <-- NEW LOG ENTRY (704)
+[00:06:01] ???: "Thats better."
+[00:06:01] ???: I'm going with the entry number.
